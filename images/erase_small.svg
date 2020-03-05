@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-custom_9">
+      <rect width="60" height="60"/>
+    </clipPath>
+  </defs>
+  <g id="custom_9" data-name="custom – 9" clip-path="url(#clip-custom_9)">
+    <line id="선_7" data-name="선 7" y1="51" x2="51" transform="translate(4.5 4.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="6"/>
+    <line id="선_8" data-name="선 8" x1="51" y1="51" transform="translate(4.5 4.5)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="6"/>
+  </g>
+</svg>
